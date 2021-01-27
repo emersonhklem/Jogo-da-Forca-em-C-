@@ -1,0 +1,10 @@
+C:\Users\emers\OneDrive\Área de Trabalho\JogoForca\bin\Debug\GuessTheWord.exe.config
+C:\Users\emers\OneDrive\Área de Trabalho\JogoForca\bin\Debug\GuessTheWord.exe
+C:\Users\emers\OneDrive\Área de Trabalho\JogoForca\bin\Debug\GuessTheWord.pdb
+C:\Users\emers\OneDrive\Área de Trabalho\JogoForca\obj\x86\Debug\JogoForca.csprojAssemblyReference.cache
+C:\Users\emers\OneDrive\Área de Trabalho\JogoForca\obj\x86\Debug\GuessTheWord.Form1.resources
+C:\Users\emers\OneDrive\Área de Trabalho\JogoForca\obj\x86\Debug\GuessTheWord.Properties.Resources.resources
+C:\Users\emers\OneDrive\Área de Trabalho\JogoForca\obj\x86\Debug\JogoForca.csproj.GenerateResource.cache
+C:\Users\emers\OneDrive\Área de Trabalho\JogoForca\obj\x86\Debug\JogoForca.csproj.CoreCompileInputs.cache
+C:\Users\emers\OneDrive\Área de Trabalho\JogoForca\obj\x86\Debug\GuessTheWord.exe
+C:\Users\emers\OneDrive\Área de Trabalho\JogoForca\obj\x86\Debug\GuessTheWord.pdb
